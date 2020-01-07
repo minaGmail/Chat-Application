@@ -7,3 +7,9 @@
 //
 
 import Foundation
+struct Messages {
+    var messageKey:String?
+    var senderName:String?
+    var messageText:String?
+    var userId:String?         // used this property to set type of message incoming or outgoing
+}

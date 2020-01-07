@@ -6,4 +6,10 @@
 //  Copyright © 2020 Mina Gamil. All rights reserved.
 //
 
-import Foundation
+import Foundation            
+struct Rooms {
+    
+    var roomId:String?
+    var roomName:String?
+    
+}
